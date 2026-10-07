@@ -328,35 +328,35 @@
           <caption class="visually-hidden">Audit of three media assets used on this page</caption>
           <thead>
             <tr>
-              <th scope="col">Asset and format</th>
-              <th scope="col">Original to compressed</th>
-              <th scope="col">Colour depth / quantization</th>
-              <th scope="col">Compression algorithm</th>
+              <th scope="col">Asset Name &amp; File Format</th>
+              <th scope="col">Original Size &rarr; Compressed</th>
+              <th scope="col">Color Depth / Quantization</th>
+              <th scope="col">Compression Algorithm</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <th scope="row">hero-photo.webp</th>
-              <td><span class="num">657 KB</span> PNG to <span class="num">28.2 KB</span> WebP</td>
+              <td><span class="num">657 KB</span> PNG &rarr; <span class="num">28.2 KB</span> WebP</td>
               <td>24-bit RGB, 8 bits per channel</td>
               <td>Lossy VP8: predictive coding, DCT, arithmetic coding</td>
             </tr>
             <tr>
-              <th scope="row">path-diagram.svg</th>
-              <td><span class="num">8.3 KB</span> to <span class="num">2.3 KB</span> gzipped</td>
-              <td>No sampling; colours declared as 24-bit hex</td>
-              <td>Lossless DEFLATE: LZ77 plus Huffman coding</td>
+              <th scope="row">scene-480.webp</th>
+              <td><span class="num">380 KB</span> raw bitmap &rarr; <span class="num">9.6 KB</span> WebP</td>
+              <td>24-bit RGB, 8 bits per channel</td>
+              <td>Lossy VP8: predictive coding, DCT, arithmetic coding</td>
             </tr>
             <tr>
               <th scope="row">narration.mp3</th>
-              <td><span class="num">1.44 MB</span> WAV to <span class="num">252 KB</span> MP3</td>
+              <td><span class="num">1.44 MB</span> WAV &rarr; <span class="num">252 KB</span> MP3</td>
               <td>16-bit PCM, 24 kHz mono source; 64 kbps output</td>
               <td>Lossy MPEG-1 Layer III: psychoacoustic model, Huffman coding</td>
             </tr>
           </tbody>
         </table>
       </div>
-      <p class="note">The PNG figure is the same photograph exported without lossy compression, kept as the baseline. Each asset also carries a C2PA content-credentials manifest of about 5.7 KB, a provenance label marking it as AI-generated, and that is included in the sizes above.</p>
+      <p class="note">The PNG figure is the same photograph exported without lossy compression, kept as the baseline. The raw bitmap figure is 480 &times; 270 pixels &times; 3 bytes. Each asset also carries a C2PA content-credentials manifest of about 5.7 KB, a provenance label marking it as AI-generated, and that is included in the sizes above.</p>
     </div>
   </section>
 </main>
