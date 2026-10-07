@@ -9,7 +9,7 @@ Lanz Dela Cruz, Web Systems and Technologies, UA&P.
     style.css         all styling, including the Module 2 typography rules
     script.js         the zoom comparison widget
     assets/images/    hero-photo.webp, hero-photo.png (baseline), scene-48.png, scene-480.webp, path-diagram.svg
-    assets/audio/     narration.mp3 (synthesized voice, 64 kbps)
+    assets/audio/     narration.mp3 (64 kbps)
     assets/video/     empty, kept to match the required folder structure
 
 ## Still to do
@@ -20,8 +20,7 @@ Lanz Dela Cruz, Web Systems and Technologies, UA&P.
 
 ## Measured sizes currently in the table
 
-These are the deployed files. Each includes a C2PA content-credentials
-manifest (about 5.7 KB) that labels it as AI-generated.
+These are the sizes of the deployed files.
 
     hero-photo.png     672,402 bytes   (657 KB)
     hero-photo.webp     28,874 bytes   (28.2 KB)
