@@ -29,8 +29,8 @@ manifest (about 5.7 KB) that labels it as AI-generated.
     path-diagram.svgz    2,369 bytes   (gzip -9)
     scene-48.png         6,826 bytes   (hero raster half, 48 x 27)
     scene-480.webp       9,850 bytes   (zoom widget raster pane, 480 x 270)
-    narration.wav    1,616,752 bytes   (16-bit PCM, 22.05 kHz mono, 36.7 s, not shipped)
-    narration.mp3      299,880 bytes   (64 kbps CBR)
+    narration.wav    1,506,126 bytes   (16-bit PCM, 24 kHz mono, 31.4 s, not shipped)
+    narration.mp3      257,559 bytes   (64 kbps CBR)
 
 ## Running it locally
 
