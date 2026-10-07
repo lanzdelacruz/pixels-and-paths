@@ -20,14 +20,17 @@ Lanz Dela Cruz, Web Systems and Technologies, UA&P.
 
 ## Measured sizes currently in the table
 
-    hero-photo.png     666,632 bytes   (651 KB)
-    hero-photo.webp     23,106 bytes   (22.6 KB)
-    path-diagram.svg       722 bytes
-    path-diagram.svgz      345 bytes   (gzip -9)
-    scene-48.png         1,056 bytes   (hero raster half, 48 x 27)
-    scene-480.webp       4,082 bytes   (zoom widget raster pane, 480 x 270)
+These are the deployed files. Each includes a C2PA content-credentials
+manifest (about 5.7 KB) that labels it as AI-generated.
+
+    hero-photo.png     672,402 bytes   (657 KB)
+    hero-photo.webp     28,874 bytes   (28.2 KB)
+    path-diagram.svg     8,496 bytes   (8.3 KB)
+    path-diagram.svgz    2,369 bytes   (gzip -9)
+    scene-48.png         6,826 bytes   (hero raster half, 48 x 27)
+    scene-480.webp       9,850 bytes   (zoom widget raster pane, 480 x 270)
     narration.wav    1,616,752 bytes   (16-bit PCM, 22.05 kHz mono, 36.7 s, not shipped)
-    narration.mp3      294,078 bytes   (64 kbps CBR)
+    narration.mp3      299,880 bytes   (64 kbps CBR)
 
 ## Running it locally
 
